@@ -1,0 +1,125 @@
+
+[
+  {
+    "url": "http://auditorium/",
+    "name": "Auditorium",
+    "floor": 1,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://quality/",
+    "name": "Quality",
+    "floor": 1,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://green/",
+    "name": "Green",
+    "floor": 2,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://blue/",
+    "name": "Blue",
+    "floor": 2,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://purple/",
+    "name": "Purple",
+    "floor": 2,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://red/",
+    "name": "Red",
+    "floor": 2,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://sunroom/",
+    "name": "Sun Room",
+    "floor": 3,
+    "ip": "10.150.0.5"
+
+  },
+  {
+    "url": "http://patio/",
+    "name": "Patio",
+    "floor": 3,
+    "ip": "10.150.0.6"
+  },
+  {
+    "url": "http://study/",
+    "name": "Study",
+    "floor": 3,
+    "ip": "10.150.0.7"
+  },
+  {
+    "url": "http://billardroom/",
+    "name": "Billard Room",
+    "floor": 3,
+    "ip": "10.150.0.8"
+  },
+  {
+    "url": "http://cave/",
+    "name": "Cave",
+    "floor": 3,
+    "ip": "10.150.0.9"
+  },
+  {
+    "url": "http://attic/",
+    "name": "Attic",
+    "floor": 3,
+    "ip": "10.150.0.10"
+  },
+  {
+    "url": "http://garage/",
+    "name": "Garage",
+    "floor": 3,
+    "ip": "10.150.0.13"
+  },
+  {
+    "url": "http://playroom/",
+    "name": "Play Room",
+    "floor": 3,
+    "ip": "10.150.0.14"
+  },
+  {
+    "url": "http://parlor/",
+    "name": "Parlor",
+    "floor": 3,
+    "ip": "10.150.0.15"
+  },
+  {
+    "url": "http://stadium/",
+    "name": "Stadium",
+    "floor": 3,
+    "ip": "10.150.0.16"
+  },
+  {
+    "url": "http://diningroom/",
+    "name": "Dining Room",
+    "floor": 3,
+    "ip": "10.150.0.18"
+  },
+  {
+    "url": "http://observatory/",
+    "name": "Observatory",
+    "floor": 3,
+    "ip": "10.150.0.1"
+  },
+  {
+    "url": "http://livingroom/",
+    "name": "Living Room",
+    "floor": 3,
+    "ip": "10.150.0.1"
+  }
+]
+
