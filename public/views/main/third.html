@@ -1,15 +1,19 @@
 <div class="jumbotron">
     <div class="page-header">
-        <h2>Select a Third Floor Conference Room!</h2>
+        <h2>3rd Floor Conference Rooms</h2>
     </div>
 
 
     <div class="row">
         <div class="col-xs-6 col-md-3" ng-repeat="room in rooms | filter:{floor:3} | orderBy:'name'">
-            <p>
-                <a class="thumbnail" href="{{ room.url }}download/SL/SL_Lite_v1.1.0.0_.{{ room.ip + type }}">{{ room.name }}</a>
-                <img src="/images/confroom.jpg" alt=""/>
-            </p>
+
+
+
+                <a class="thumbnail" href="{{ room.url }}download/SL/SL_Lite_v1.1.0.0_.{{ room.ip + type }}">
+
+                    <img class="img img-responsive img-rounded" src="{{ room.image }}" alt=""/>
+                </a>
+
         </div>
     </div>
 </div>

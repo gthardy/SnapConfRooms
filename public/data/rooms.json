@@ -46,80 +46,93 @@
     "url": "http://sunroom/",
     "name": "Sun Room",
     "floor": 3,
-    "ip": "10.150.0.5"
+    "ip": "10.150.0.5",
+    "image" : "/images/sunroom.jpg"
 
   },
   {
     "url": "http://patio/",
     "name": "Patio",
     "floor": 3,
-    "ip": "10.150.0.6"
+    "ip": "10.150.0.6",
+    "image" : "/images/patio.jpg"
   },
   {
     "url": "http://study/",
     "name": "Study",
     "floor": 3,
-    "ip": "10.150.0.7"
+    "ip": "10.150.0.7",
+    "image" : "/images/study.jpg"
   },
   {
     "url": "http://billardroom/",
     "name": "Billard Room",
     "floor": 3,
-    "ip": "10.150.0.8"
+    "ip": "10.150.0.8",
+    "image" : "/images/billardroom.jpg"
   },
   {
     "url": "http://cave/",
     "name": "Cave",
     "floor": 3,
-    "ip": "10.150.0.9"
+    "ip": "10.150.0.9",
+    "image" : "/images/cave.jpg"
   },
   {
     "url": "http://attic/",
     "name": "Attic",
     "floor": 3,
-    "ip": "10.150.0.10"
+    "ip": "10.150.0.10",
+    "image" : "/images/attic.jpg"
   },
   {
     "url": "http://garage/",
     "name": "Garage",
     "floor": 3,
-    "ip": "10.150.0.13"
+    "ip": "10.150.0.13",
+    "image" : "/images/garage.jpg"
   },
   {
     "url": "http://playroom/",
     "name": "Play Room",
     "floor": 3,
-    "ip": "10.150.0.14"
+    "ip": "10.150.0.14",
+    "image" : "/images/playroom.jpg"
   },
   {
     "url": "http://parlor/",
     "name": "Parlor",
     "floor": 3,
-    "ip": "10.150.0.15"
+    "ip": "10.150.0.15",
+    "image" : "/images/parlor.jpg"
   },
   {
-    "url": "http://stadium/",
-    "name": "Stadium",
+    "url": "http://nook/",
+    "name": "Nook",
     "floor": 3,
-    "ip": "10.150.0.16"
+    "ip": "10.150.0.1",
+    "image" : "/images/nook.jpg"
   },
   {
     "url": "http://diningroom/",
     "name": "Dining Room",
     "floor": 3,
-    "ip": "10.150.0.18"
+    "ip": "10.150.0.18",
+    "image" : "/images/diningroom.jpg"
   },
   {
     "url": "http://observatory/",
     "name": "Observatory",
     "floor": 3,
-    "ip": "10.150.0.1"
+    "ip": "10.150.0.11",
+    "image" : "/images/observatory.jpg"
   },
   {
     "url": "http://livingroom/",
     "name": "Living Room",
     "floor": 3,
-    "ip": "10.150.0.1"
+    "ip": "10.150.0.12",
+    "image" : "/images/livingroom.jpg"
   }
 ]
 
